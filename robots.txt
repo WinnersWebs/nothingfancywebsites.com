@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /never-apart-apartments
+Disallow: /pats-wall-paints
+Disallow: /cardington-cafe-culture
+Disallow: /harrys-hair-stylers
+Disallow: /jumping-jims-gym
+Disallow: /handover-handyman-services
